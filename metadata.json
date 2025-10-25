@@ -1,0 +1,5 @@
+{
+  "name": "Ops & Sales Task Assistant",
+  "description": "An interactive tool to help users complete the Ops & Sales task by providing editable templates, AI-powered personalization, and automatic document and ZIP file generation.",
+  "requestFramePermissions": []
+}
